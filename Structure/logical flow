@@ -1,0 +1,9 @@
+SearchBox
+   ↓
+Dashboard page
+   ↓
+useWeather hook
+   ↓
+weatherApi fetch
+   ↓
+WeatherCard + ForecastList

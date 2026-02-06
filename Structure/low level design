@@ -1,0 +1,23 @@
+weather-dashboard/
+│
+├── SERVICE/
+│   └── wether.jsx
+│       └── API call logic (fetch weather data)
+│
+├── src/
+│   ├── App.jsx
+│   │   └── Main layout + components connect
+│   │
+│   ├── main.jsx
+│   │   └── React root render
+│   │
+│   ├── App.css
+│   └── index.css
+│
+├── Structure/
+│   ├── high level design
+│   ├── logical flow
+│   └── low level design   
+│
+│
+└── README.md

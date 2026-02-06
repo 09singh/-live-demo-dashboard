@@ -1,0 +1,7 @@
+User
+  ↓
+React UI (Weather Dashboard)
+  ↓
+Weather API (OpenWeather)
+  ↓
+Weather Data (JSON response)
