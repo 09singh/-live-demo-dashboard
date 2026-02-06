@@ -26,7 +26,7 @@ Built with a modern UI to practice real-world frontend development.
 
 - HTML5  
 - CSS3 / Tailwind CSS  
-- JavaScript (Vanilla JS / React if used)  
+- React.js
 
 ---
 
